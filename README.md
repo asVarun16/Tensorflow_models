@@ -1,2 +1,4 @@
 # Tensorflow_models
-working through examples and simple models in tensorflow
+* Working through examples and models using TensorFlow
+
+*Standard datasets of Iris flower species and Boston housing prices have been used for developing Neural Networks using TensorFlow 
