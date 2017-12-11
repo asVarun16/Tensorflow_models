@@ -1,0 +1,8 @@
+*.csv
+cifar10_keras_classification.ipynb
+classification problems.ipynb
+*.zip
+*.txt
+mlp, cnns for mnist.ipynb
+neural network with pima indian diabetes dataset.ipynb
+.ipynb_checkpoints
